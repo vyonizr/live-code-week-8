@@ -1,0 +1,5 @@
+PORT=3000
+JWT_SECRET=masukfasetiga
+APOD_API_KEY=YqpBZFfOv4ZKqgyZ4nEv2ArZVLm69KY5euqGRZlI
+
+https://api.nasa.gov/planetary/apod?api_key=YqpBZFfOv4ZKqgyZ4nEv2ArZVLm69KY5euqGRZlI&date=2017-10-10
